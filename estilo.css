@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* Desarrollado por          */
+/* Javier Gonzalez Hernandez */
+body {
+    background-color: hsl(200, 15%, 85%);
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  
+  h1.h1header {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  h2.h2header {
+    background-color: hsl(200, 15%, 55%);
+    color: hsl(200, 15%, 30%);
+    font-size: 200%;
+    text-decoration: underline;
+  }
+  
+  h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+  }
+  
+  p.pmain {
+    background-color: hsl(200, 15%, 75%);
+  }
+
+  p.header {
+    background-color: hsl(200, 15%, 75%)
+  }
+
+  em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+  }
+  
+  address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+  }
